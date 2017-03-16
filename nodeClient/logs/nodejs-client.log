@@ -1,0 +1,10 @@
+[2017-03-16 18:03:11.866] [INFO] console - gate init {"host":"127.0.0.1","port":"3010","log":true}
+[2017-03-16 18:03:11.884] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:03:11.891] [ERROR] console - queryEntry failed!
+[2017-03-16 18:03:11.902] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:03:11.969] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 21:16:16.101] [INFO] console - gate init {"host":"127.0.0.1","port":"3010","log":true}
+[2017-03-16 21:16:16.122] [INFO] console - uid  can"nt  null 
+[2017-03-16 21:16:16.129] [ERROR] console - queryEntry failed!
+[2017-03-16 21:16:16.140] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 21:16:16.191] [INFO] console - enterWorld : {"code":200}

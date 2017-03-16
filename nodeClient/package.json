@@ -1,0 +1,24 @@
+{
+    "name": "pomelo-nodejs-client",
+    "version": "0.0.1",
+    "description": "A pomelo nodejs client",
+    "author": "<kilua626@gmail.com>",
+    "dependencies": {
+        "ws": "0.4.25",
+        "mysql": ">=2.0",
+        "pomelo-protocol": "0.1.6",
+        "pomelo-protobuf": "0.3.5",
+        "underscore": ">=1.5.2",
+        "log4js": "0.6.9",
+        "crc": "0.2.0"
+    },
+    "devDependencies": {
+        "ws": "0.4.25",
+        "mysql": ">=2.0",
+        "pomelo-protocol": "0.1.6",
+        "pomelo-protobuf": "0.3.5",
+        "underscore": ">=1.5.2",
+        "log4js": "0.6.9",
+        "crc": "0.2.0"
+    }
+}
