@@ -4,7 +4,6 @@
 var pomelo = require('./../pomelo');
 cmds = module.exports ={};
 
-
 /*
  *   连接服务器
  * */
@@ -21,10 +20,10 @@ cmds.connect = function (host, port, cb) {
  *   @param {Function} callback, signature: function callback(connectorServer, connectorServerPort){}
  * */
 cmds.queryEntry = function (uid, callback) {
-    if(!uid){
+    if(uid==null){
         console.log('uid  can"nt  null ' );
     }
-    console.log('uid  can"nt  null ' );
+    console.log('uid = %s ',uid );
     pomelo.request('gate.gateHandler.queryEntry', {uid: uid}, function (data) {
         pomelo.disconnect();
         if (data.code !== 200) {

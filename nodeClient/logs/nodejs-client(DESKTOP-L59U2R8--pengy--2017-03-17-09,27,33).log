@@ -1,0 +1,284 @@
+[2017-03-16 18:03:11.866] [INFO] console - gate init {"host":"127.0.0.1","port":"3010","log":true}
+[2017-03-16 18:03:11.884] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:03:11.891] [ERROR] console - queryEntry failed!
+[2017-03-16 18:03:11.902] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:03:11.969] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:04:39.535] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:04:39.554] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:04:39.573] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:04:46.146] [INFO] console - gate init {"host":"127.0.0.1","port":"3010","log":true}
+[2017-03-16 18:04:46.166] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:04:46.173] [ERROR] console - queryEntry failed!
+[2017-03-16 18:04:46.185] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:04:46.216] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:05:55.003] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:05:55.024] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:05:55.045] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:06:06.197] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:06:06.213] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:06:06.216] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:07:02.481] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:07:02.496] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:07:02.499] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:07:25.908] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:07:25.924] [INFO] console - 0.1184966096188873
+[2017-03-16 18:07:25.925] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:07:25.928] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:07:46.434] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:07:46.457] [INFO] console - uid = 0.7956160705070943 
+[2017-03-16 18:07:46.457] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:07:46.463] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:08:13.615] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:08:13.631] [INFO] console - uid = 1929414 
+[2017-03-16 18:08:13.631] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:08:13.644] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3010
+[2017-03-16 18:08:48.969] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:08:48.985] [INFO] console - uid  can"nt  null 
+[2017-03-16 18:08:49.005] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3010
+[2017-03-16 18:09:01.616] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:09:01.648] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:09:30.917] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:09:30.942] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:10:13.698] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:10:13.735] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:11:21.959] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:11:21.989] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:11:21.990] [ERROR] console - to next
+[2017-03-16 18:12:00.037] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:12:00.072] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:12:00.073] [INFO] console - to next
+[2017-03-16 18:12:00.073] [INFO] console - to next1
+[2017-03-16 18:12:32.943] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:12:32.982] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3011
+[2017-03-16 18:12:32.983] [INFO] console - to next
+[2017-03-16 18:12:32.983] [INFO] console - to next1
+[2017-03-16 18:13:36.046] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:13:36.081] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  192.168.0.2 , data.port = 3010
+[2017-03-16 18:13:36.082] [INFO] console - to next
+[2017-03-16 18:13:36.082] [INFO] console - to next1
+[2017-03-16 18:13:36.083] [INFO] console - connector init {"host":"192.168.0.2","port":3010,"log":true}
+[2017-03-16 18:13:57.098] [INFO] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\pomelo.js - socket error:  { [Error: connect ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'connect' }
+Error: connect ETIMEDOUT
+    at exports._errnoException (util.js:746:11)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1000:19)
+[2017-03-16 18:14:38.383] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:14:38.434] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:14:38.434] [INFO] console - to next
+[2017-03-16 18:14:38.435] [INFO] console - to next1
+[2017-03-16 18:14:38.435] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:14:38.447] [INFO] console - to next2
+[2017-03-16 18:14:38.452] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:14:38.506] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:15:07.813] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:15:07.848] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:15:07.849] [INFO] console - to next
+[2017-03-16 18:15:07.850] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:15:07.858] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:15:07.888] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:15:11.112] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:15:11.136] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:15:11.136] [INFO] console - to next
+[2017-03-16 18:15:11.137] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:15:11.147] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:15:11.157] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:15:35.088] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:15:35.119] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:15:35.120] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:15:35.136] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:15:35.162] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:16:02.899] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:16:02.921] [INFO] console - uid = 4895117 
+[2017-03-16 18:16:02.937] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:16:02.938] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:16:02.947] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:16:02.965] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:16:06.025] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:16:06.041] [INFO] console - uid = 7927571 
+[2017-03-16 18:16:06.063] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:16:06.064] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:16:06.072] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:16:06.077] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:16:29.542] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:16:29.557] [INFO] console - uid = 4161688 
+[2017-03-16 18:16:29.570] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:16:29.571] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:16:29.580] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:16:29.600] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:19:30.745] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:19:33.647] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:19:57.386] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:20:07.418] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:20:13.510] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:21:12.362] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:21:38.598] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:21:48.360] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:21:48.378] [INFO] console - uid = 9516820 
+[2017-03-16 18:21:48.418] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:21:48.418] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:21:48.433] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:21:48.499] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:21:56.053] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:21:56.073] [INFO] console - uid = 6369856 
+[2017-03-16 18:21:56.092] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:21:56.093] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:21:56.107] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:21:56.153] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:22:15.344] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:22:39.344] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:22:39.364] [INFO] console - uid = 1114683 
+[2017-03-16 18:22:39.370] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:22:39.370] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:22:39.380] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:22:39.390] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:22:53.085] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:22:53.102] [INFO] console - uid = 7046724 
+[2017-03-16 18:22:53.125] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:22:53.126] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:22:53.133] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:22:53.142] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:23:05.638] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:30:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:23:11.671] [ERROR] C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js - err: TypeError: undefined is not a function
+    at Object.cmds.doConnect (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\cmds\cmdGate.js:40:10)
+    at Object.<anonymous> (C:\Users\pengy\Documents\百度云同步盘\FramworkServer\nodeClient\script\enterGame.js:31:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+[2017-03-16 18:23:26.331] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:23:26.349] [INFO] console - uid = 1717745 
+[2017-03-16 18:23:26.356] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:23:26.356] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:23:26.364] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:23:26.377] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:24:17.960] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:24:17.977] [INFO] console - uid = 8879466 
+[2017-03-16 18:24:18.001] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:24:18.002] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:24:18.010] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:24:18.039] [INFO] console - enterWorld : {"code":200}
+[2017-03-16 18:24:47.106] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:24:47.122] [INFO] console - uid = 2975577 
+[2017-03-16 18:24:47.133] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:24:47.134] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:24:47.142] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:24:47.144] [INFO] console - enterScene : {"code":500}
+[2017-03-16 18:25:58.277] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:25:58.295] [INFO] console - uid = 4307293 
+[2017-03-16 18:25:58.325] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:25:58.325] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:25:58.339] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:25:58.342] [INFO] console - enterScene : {"code":500}
+[2017-03-16 18:28:07.944] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:28:07.962] [INFO] console - uid = 3043773 
+[2017-03-16 18:28:07.987] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:28:07.988] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:28:08.001] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:28:08.004] [INFO] console - enterScene : {"code":500}
+[2017-03-16 18:28:52.419] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:28:52.437] [INFO] console - uid = 7330070 
+[2017-03-16 18:28:52.474] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:28:52.475] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:28:52.488] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:28:52.555] [INFO] console - enterScene : {"code":200}
+[2017-03-16 18:28:57.785] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:28:57.802] [INFO] console - uid = 2767420 
+[2017-03-16 18:28:57.812] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:28:57.812] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:28:57.822] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:28:57.853] [INFO] console - enterScene : {"code":200}
+[2017-03-16 18:30:35.622] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:30:35.641] [INFO] console - uid = 6822647 
+[2017-03-16 18:30:35.665] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3010
+[2017-03-16 18:30:35.665] [INFO] console - connector init {"host":"127.0.0.1","port":3010,"log":true}
+[2017-03-16 18:30:35.682] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:30:35.716] [INFO] console - enterScene : {"code":200}
+[2017-03-16 18:30:58.851] [INFO] console - gate init {"host":"127.0.0.1","port":"3014","log":true}
+[2017-03-16 18:30:58.869] [INFO] console - uid = 8346967 
+[2017-03-16 18:30:58.907] [INFO] console - gate.gateHandler.queryEntry : ok , data.host  =  127.0.0.1 , data.port = 3011
+[2017-03-16 18:30:58.907] [INFO] console - connector init {"host":"127.0.0.1","port":3011,"log":true}
+[2017-03-16 18:30:58.921] [INFO] console - connector.entryHandler.entry : {"code":200}
+[2017-03-16 18:30:58.949] [INFO] console - enterScene : {"code":200}
