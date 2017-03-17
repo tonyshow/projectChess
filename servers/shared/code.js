@@ -6,8 +6,8 @@ module.exports = {
 
 	ACCOUNT:{
 		ALREADY_REGISTERED : 1000,	//账号已被注册;
-        PWD_ERROR : 1001,	//账号密码错误;
-        USER_NOT_EXIST : 1002,	//帐号不存在;
+		PWD_ERROR : 1001,	//账号密码错误;
+		USER_NOT_EXIST : 1002,	//帐号不存在;
 	},
 
 	ACCOUNT1:{
