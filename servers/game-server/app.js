@@ -30,7 +30,7 @@ app.configure('production|development', 'connector', function(){
     });
 });
 
-app.configure('production|development', 'world|room|seat', function(){
+app.configure('production|development', 'area|world|room|seat', function(){
 
 });
 

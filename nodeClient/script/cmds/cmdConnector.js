@@ -10,10 +10,16 @@ cmds = module.exports ={};
  * */
 cmds.connect = function ( host, port,cb  ) {
     host = host || '127.0.0.1';
-    port = port || '3010';
-    pomelo.init({host: host, port: port, log: true}, function(){
-        cb();
-    });
+    port = port || '3010'; 
+
+    var prams = {host: host, port: port, log: true};
+
+    console.log('connector init %s',JSON.stringify(prams) );
+
+    pomelo.init({host: host, port: port, log: true}, cb);
+
+
+  
 };
 
 cmds.entry = function(cb){

@@ -4,7 +4,7 @@
       {
         "id": "gate-server-1",
         "host": "127.0.0.1",
-        "clientHost": "192.168.0.2",
+        "clientHost": "127.0.0.1",
         "clientPort": 3014,
         "frontend": true
       }
@@ -14,11 +14,20 @@
         "id": "connector-server-1",
         "host": "127.0.0.1",
         "port": "3150++",
-        "clientHost": "192.168.0.2",
+        "clientHost": "127.0.0.1",
         "clientPort": "3010++",
         "clusterCount": 2,
         "frontend": true,
         "auto-restart": true
+      }
+    ],
+     "area": [
+      {
+        "id": "area-server-1",
+        "host": "127.0.0.1",
+        "port": "3250",
+        "clusterCount": 1,
+        "area": 1
       }
     ],
     "room": [
@@ -51,6 +60,15 @@
         "clusterCount": 2,
         "frontend": true,
         "auto-restart": true
+      }
+    ],  
+    "area": [
+      {
+        "id": "area-server-1",
+        "host": "127.0.0.1",
+        "port": "3250",
+        "clusterCount": 1,
+        "area": 1
       }
     ],
     "room": [
