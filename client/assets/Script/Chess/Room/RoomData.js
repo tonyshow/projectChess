@@ -1,5 +1,5 @@
 /**
- * 游戏数据基类
+ * 房间数据基类
  */  
 
 var _  = require('underscore');
