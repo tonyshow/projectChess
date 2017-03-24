@@ -2,7 +2,7 @@
  * 手牌出牌动作
  * author:tony
  * time : 2017/03/24
- */
+ */ 
 cc.Class({
     extends: cc.Component,
 
@@ -27,5 +27,10 @@ cc.Class({
             this.state = EnumHandCardState.OUT;
             return this.state;
         } 
+    },
+
+    //做出牌动作
+    doOut : function(cb){
+        Utils.callBack( cb );
     }   
 });
