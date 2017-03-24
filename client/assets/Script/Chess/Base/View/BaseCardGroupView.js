@@ -10,17 +10,28 @@ cc.Class({
         
     },  
 
-    onLoad: function () {
+    onLoad: function () {        
         this.cardList = {};
+        this.cards = [];
     },
 
-    /**新增一个牌 */
-    addCard:function(){
-
+    /**新增一个牌
+     * card：{pos:1,cardId:1}
+     */
+    addCard:function( card ){
+        var cardObj = Card.create(card.cardId);
+        this.cards.push( {pos:pos,cardObj:cardObj} );
     },
 
     /**移除一个牌 */
-    removeCard:function(){
+    removeCard:function( pos ,cardId ){
+
+    },
+
+    /**初始化界面 
+     * cardIds:[{pos:1,cardId:1},{pos:2,cardId:1}]
+    */
+    init:function( cardIds ){
 
     },
 });
