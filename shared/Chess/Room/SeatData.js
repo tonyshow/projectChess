@@ -4,9 +4,10 @@
 
 var _  = require('underscore');
 
-var SeatData = function(){
+var SeatData = function( data ){
     EventEmitter.call(this); 
     this.clearn();    
+    this.mSeatData = data;
 }
 
 var pro = SeatData.prototype;
@@ -122,6 +123,8 @@ pro.getHandData = function(){
 };  
 
 
-
+pro.refreshData = function(data){
+    this.mSeatData = data;
+}
 
 module.exports = SeatData;
