@@ -58,15 +58,6 @@ def delete_file_folder(src):
         except:  
             pass 	
 
-#===================================================================================================		
-def removeFileInFirstDir(targetDir): 
-	for file in os.listdir(targetDir): 
-		targetFile = os.path.join(targetDir,  file)
-		if os.path.isfile(targetFile):
-			os.remove(targetFile)
-		else:
-			delete_file_folder(targetFile)
-
 
  
 #===================================================================================================
@@ -206,12 +197,6 @@ def file_folder(src, dst):
 	
 #===================================================================================================
 def main(): 
-	if len(sys.argv) < 3:
-		print 'lack of arg'
-		return
-	dir = sys.argv[1]
-	outPath = sys.argv[2]
-	
 	if  (os.path.exists(dir)):
 		sjdghg = ''
 	else:
@@ -221,7 +206,6 @@ def main():
 		sjdghg = ''
 	else:
 		os.mkdir( outPath ) 
-	removeFileInFirstDir(outPath) 
 	file_folder(dir, outPath);
 	 
 if __name__ == '__main__':

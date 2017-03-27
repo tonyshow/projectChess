@@ -1,11 +1,14 @@
 #!/bin/sh
+rm -r -f out
+mkdir out/
+
 echo '==================================================================================================='
 echo ' 					excel to js start ... '
 echo '==================================================================================================='
 echo ''
 echo ''
 echo ''
-python excel2json.py in out
+python excel2json.py
 echo '==================================================================================================='
 echo ' 					cp js to  '
 echo '==================================================================================================='
@@ -16,7 +19,7 @@ echo ''
 #cp -pr out/*.js ./../../assets/Script/MgData/PlanData
 
 
-python doCodeJs.py in out
+python doCodeJs.py
 cp -pr out/code.js ./../
 
 echo ''
@@ -24,3 +27,6 @@ echo ''
 echo ' 	all is ok !!! '
 echo ' 	all is ok !!! '
 echo ' 	all is ok !!! '
+
+echo 按任意键继续
+read -n 1

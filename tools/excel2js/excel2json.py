@@ -382,8 +382,8 @@ def createJsFile(src , chinesName , dst ):
 	  
 	className = jsFileBf + DataName;
 
-	#print'chinesName = %s' %( chinesName );
-	#print'className  = %s\n' %( className );
+	print'chinesName = %s' %( chinesName );
+	print'className  = %s\n' %( className );
 
 	fileNameList.append( className );
 	tmpStr = 'var {0} = function () '.format(className);
@@ -449,12 +449,6 @@ def file_folder(src, dst):
 	
 #===================================================================================================
 def main(): 
-	if len(sys.argv) < 3:
-		print 'lack of arg'
-		return
-	dir = sys.argv[1]
-	outPath = sys.argv[2]
-	
 	if  (os.path.exists(dir)):
 		sjdghg = ''
 	else:

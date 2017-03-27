@@ -1,38 +1,15 @@
 { 
+	"Games":
+	{
+		"key":"id"
+	},
+	"MjConfig":
+	{
+		"key":"id"
+	},
 	"CommonParameter":
 	{
 		"key":"id"
-	},
-	"Scene":
-	{
-		"key":"id"
-	},
-	"Msg":
-	{
-		"key":"id"
-	} ,
-	"GameWorld":
-	{
-		"key":"id"
-	},
-	"GameConfig":
-	{
-		"key":"id"
-	},
-	"Dialog":
-	{
-		"key":"id"
-	} ,
-	"Card":
-	{
-		"key":"id"
-	},  
-	"Prefabs":
-	{
-		"key":"id"
-	},
-	"SpritePath":
-	{
-		"key":"id"
-	}	
+	}
+	
 }
