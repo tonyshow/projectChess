@@ -1,2 +1,0 @@
-#!/bin/sh
-mysql -u root -p123456 -e "CREATE DATABASE IF NOT EXISTS ChessAccount3;" && mysql -u root -p123456 --database=ChessAccount3 <./createTable.sql >createTable.log -f --batch --silent --show-warnings --line-numbers --table --column-names
