@@ -2,8 +2,7 @@
  * 封装pomelo网络协议库
  * 时间：2016-12-15
  * 作者：tony
- */
-var Code = require('./../../Shared/code');
+ */ 
 var exp = module.exports = {};
 
 /*
