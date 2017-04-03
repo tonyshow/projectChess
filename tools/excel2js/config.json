@@ -10,6 +10,10 @@
 	"CommonParameter":
 	{
 		"key":"id"
+	},
+	"PkConfig":
+	{
+		"key":"id"
 	}
 	
 }

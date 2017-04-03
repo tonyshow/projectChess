@@ -5,12 +5,16 @@ var exp = module.exports = {};
 
 var modules = exp.modules = {};
 
-var names =['PlanCommonParameter', 'PlanMjConfig'];
+var names =['PlanCommonParameter', 'PlanPkConfig', 'PlanMjConfig'];
 
 function create( name ){
 	if("PlanCommonParameter"==name){
 		var PlanCommonParameter = require('./../../MgData/PlanData/PlanCommonParameter');
 		return new PlanCommonParameter();
+	}
+	else if("PlanPkConfig"==name){
+		var PlanPkConfig = require('./../../MgData/PlanData/PlanPkConfig');
+		return new PlanPkConfig();
 	}
 	else if("PlanMjConfig"==name){
 		var PlanMjConfig = require('./../../MgData/PlanData/PlanMjConfig');
@@ -18,7 +22,7 @@ function create( name ){
 	}
 }
 function doman(){   
-    for(var i = 0 ; i < 2 ; ++i ){
+    for(var i = 0 ; i < 3 ; ++i ){
         var name = names[i];
         Object.defineProperty(exp, name, {
             get: (function (name) {
