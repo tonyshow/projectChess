@@ -4,8 +4,7 @@
  * 时间 ：2016-12-8 */
 
 var util = require('util'),
-    EventEmitter = require('events').EventEmitter,
-    _  = require('underscore');
+    EventEmitter = require('events').EventEmitter
 
     
 var PlanBase = function ( data , indexs  , indexNames) {    

@@ -3,8 +3,7 @@
  */
 
 var util = require('util'),
-    EventEmitter = require('events').EventEmitter,
-    _  = require('underscore');
+    EventEmitter = require('events').EventEmitter;
 
 var DataBase = function(){
     EventEmitter.call(this);
